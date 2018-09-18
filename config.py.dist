@@ -1,0 +1,5 @@
+URL = 'https://box.domain.tld/admin/'
+USER = ''
+PASSWD = ';
+AUTH = { 'test.domain.tld': {'username':'admin', 'password':'secret'},
+    }
